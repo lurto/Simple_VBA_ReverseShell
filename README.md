@@ -4,6 +4,14 @@
 Very simple VBA ReverseShell executed in powershell. With the Call Shell function.
 
 
+## !!! Repo change !!!
+the new repository is in colaboration with Burly0
+
+- https://github.com/Burly0/vba-rv-shell
+
+- [@Burly0](https://github.com/Burly0)
+
+  
 
 ## Deployment
 
